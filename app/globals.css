@@ -20,7 +20,7 @@ body {
 
 @font-face {
   font-family: "burtons";
-  src: url("../public/Burtons.otf");
+  src: url("./assets/Burtons.otf");
 }
 
 .profile_img {
@@ -52,8 +52,7 @@ body {
 
 .timeline {
   position: relative;
-  max-width: 1200px;
-  margin: 100px auto;
+  /* max-width: 1200px; */
 }
 
 .container {

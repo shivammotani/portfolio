@@ -16,6 +16,12 @@ module.exports = {
       fontFamily: {
         burtons: "burtons",
       },
+      minWidth: {
+        90: "90%",
+      },
+      minHeight: {
+        90: "90%",
+      },
     },
   },
   plugins: [],
