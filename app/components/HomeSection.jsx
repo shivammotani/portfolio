@@ -3,19 +3,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import {
-  AiFillTwitterCircle,
-  AiFillLinkedin,
-  AiFillYoutube,
-} from "react-icons/ai";
 import deved from "../assets/dev-ed-wave.png";
-
-import web1 from "../assets/web1.png";
-import web2 from "../assets/web2.png";
-import web3 from "../assets/web3.png";
-import web4 from "../assets/web4.png";
-import web5 from "../assets/web5.png";
-import web6 from "../assets/web6.png";
 
 const Home = () => {
   const [darkMode, setDarkMode] = useState(false);

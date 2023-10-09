@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+
 
 const Experience = () => {
   return (
-    <div name="experience"  className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900 md:h-screen ">
-          <div className="max-w-screen-lg p-4 mx-auto w-full text-center">
+    <div name="experience"  className="bg-white px-10 md:px-20 lg:px-40 h-full dark:bg-gray-900">
+          <div className="max-w-screen-lg p-4 mx-auto w-full text-center h-full">
             <p className='text-2xl md:text-3xl font-bold  text-teal-600'>EXPERIENCE</p>
             <p className='py-1 border-b-4'>Below is my Experience</p>
             <div className="timeline">
